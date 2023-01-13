@@ -35,6 +35,10 @@ def Coseno(a):
     return np.cos(a)
 
 
+def Tangente(a):
+    return np.tan(a)
+
+
 def Calculadora():
     print("Este es tu menu de opraciones que puedes realizar; ")
     print("1 Sumar")
