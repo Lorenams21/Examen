@@ -26,6 +26,10 @@ def Raiz(a, b):
 def Exponencial(a, b):
     return np.power(a, b)
 
+
+def Seno(a):
+    return np.sin(a)
+
 def Calculadora():
     print("Este es tu menu de opraciones que puedes realizar; ")
     print("1 Sumar")
