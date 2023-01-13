@@ -39,6 +39,10 @@ def Tangente(a):
     return np.tan(a)
 
 
+def Close():
+    sys.exit()
+
+    
 def Calculadora():
     print("Este es tu menu de opraciones que puedes realizar; ")
     print("1 Sumar")
