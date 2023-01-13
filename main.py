@@ -19,7 +19,12 @@ def Dividir(a, b):
     return a / b
 
 
+def Raiz(a, b):
+    return pow(a, 1 / b)
 
+
+def Exponencial(a, b):
+    return np.power(a, b)
 
 def Calculadora():
     print("Este es tu menu de opraciones que puedes realizar; ")
