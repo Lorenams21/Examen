@@ -1,0 +1,20 @@
+Calculadora Básica
+
+Python 3.11.1
+
+# Librerias
+Numpy
+Sys
+
+Funciones de Calculadora:
+- Sumar
+- Restar
+- Multiplicar
+- Dividir
+- Raiz n
+- Exponencial n
+- Seno
+- Coseno
+- Tangente
+
+ING. Lorena Jaqueline Mendez Sotelo
