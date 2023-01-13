@@ -30,6 +30,11 @@ def Exponencial(a, b):
 def Seno(a):
     return np.sin(a)
 
+
+def Coseno(a):
+    return np.cos(a)
+
+
 def Calculadora():
     print("Este es tu menu de opraciones que puedes realizar; ")
     print("1 Sumar")
